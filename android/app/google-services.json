@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657750611874",
+    "project_id": "shrineapp-eebb1",
+    "storage_bucket": "shrineapp-eebb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657750611874:android:1b406045c3a18e82cbc4fb",
+        "android_client_info": {
+          "package_name": "com.example.mdc_100_series"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657750611874-fq0g26p2p0f53i0ofa3uvcgf33dihljo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm85_zAPyMJCaPNU76FnIZmJj7WoFwowM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657750611874-fq0g26p2p0f53i0ofa3uvcgf33dihljo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
